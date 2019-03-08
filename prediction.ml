@@ -1,0 +1,1 @@
+let prediction() = 'y';;
